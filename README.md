@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtharvaMathapati
-- 👀 I’m interested in python and Machine learning.
+- 👀 I’m interested in python and Machine learning and Chemical Engineering.
 - 🌱 I’m currently learning Deep learning.
 - 📫 How to reach me m.atharva@iitg.ac.in 
 
